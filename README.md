@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jidohansha
 - 👀 I’m interested in ... devops
-- 🌱 I’m currently learning ... terraform, python
+- 🌱 My DevOps Stack --> Terraform, AzureDevOps, Git, Python Scripts, Bash Scripts, Ubuntu, Debian, Ansible, MySQL, Google Cloud, Azure Cloud.
 - 💞️ I’m looking to collaborate on ...virtual infrastructure
 - 📫 How to reach me ...
 
